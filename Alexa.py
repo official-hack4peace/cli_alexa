@@ -1,5 +1,5 @@
 print("           ____")
-print("          (____)  <[Hello!]"
+print("          (____)  <[Hello!]")
 print("          |    |")
 print("          |____|")
 
